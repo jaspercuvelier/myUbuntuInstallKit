@@ -18,5 +18,4 @@ sudo apt-get -y install flameshot
 sudo apt-get -y install dconf-editor
 sudo apt-get -y install code
 
-sudo apt install --install-recommends winehq-stable
-sudo apt install -y postman
+sudo snap install -y postman
